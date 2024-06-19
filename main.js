@@ -738,7 +738,7 @@ console.log(result1,result);
 // }
 // const emptyobj={}
 // if (Object.keys(emptyobj).length===0) {
-//   console.log("object is empty");
+//   console.log("object is empty");git add README.md
 // }
 
 // nullish coalescing operator (??): null undefined
